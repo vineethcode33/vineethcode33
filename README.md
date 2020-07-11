@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **vineethcode33/vineethcode33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+- 🔭 I’m currently working on JavaScript, TypeScript, React, Node, MongoDB, MySQL, Python...
+- 🌱 I’m currently learning Cloud technologies, GraphQL
+- 👯 I’m looking to collaborate on anything JavaScript, Python...
+- 🤔 I’m looking for help with service-wrokers :sob: :scream:
+- 📫 How to reach me: https://twitter.com/VineethIAm
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: While I am away from a computer I dream about sports cars.
