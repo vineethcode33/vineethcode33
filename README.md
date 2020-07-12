@@ -28,4 +28,19 @@ Here are some ideas to get you started:
 
 ---
 
+<p>
+   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/typescript%20-%23F7DF1E.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=blue" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/python%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white&color=4B8BBE" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/graphql%20-%231572B6.svg?&style=for-the-badge&logo=graphql&logoColor=white&color=ff69b4" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+   <br/>
+   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/imickovski">
+   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
+   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
+</p>
+
+<!--
 \#JavaScript \#TypeScript \#React \#Node \#GraphQL \#Python
+-->
