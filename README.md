@@ -23,9 +23,10 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
    <br/>
    <br/>
-   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/imickovski">
-   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
-   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
+   <img src="https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb">
+   <img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql&logocolor=white">
+   <img src="https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git">
+   <img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github">
 </p>
 
 ---
