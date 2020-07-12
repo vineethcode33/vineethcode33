@@ -14,20 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Vineeth](https://github.com/vineethcode33/vineethcode33/blob/master/banner.gif)
-
-### Hi there 👋
-
-- 🔭 I’m currently working on JavaScript, TypeScript, React, Node, MongoDB, MySQL, Python...
-- 🌱 I’m currently learning Cloud technologies, GraphQL
-- 👯 I’m looking to collaborate on anything JavaScript, Python...
-- 🤔 I’m looking for help with service-wrokers :sob: :scream:
-- 📫 How to reach me: https://twitter.com/VineethIAm
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: While I am away from a computer I dream about sports cars.
-
----
-
 <p>
    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/typescript%20-%23F7DF1E.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=blue" />&nbsp;&nbsp;
@@ -41,7 +27,18 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
 </p>
+---
+![Vineeth](https://github.com/vineethcode33/vineethcode33/blob/master/banner.gif)
 
+### Hi there 👋
+
+- 🔭 I’m currently working on JavaScript, TypeScript, React, Node, MongoDB, MySQL, Python...
+- 🌱 I’m currently learning Cloud technologies, GraphQL
+- 👯 I’m looking to collaborate on anything JavaScript, Python...
+- 🤔 I’m looking for help with service-wrokers :sob: :scream:
+- 📫 How to reach me: https://twitter.com/VineethIAm
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: While I am away from a computer I dream about sports cars.
 <!--
 \#JavaScript \#TypeScript \#React \#Node \#GraphQL \#Python
 -->
