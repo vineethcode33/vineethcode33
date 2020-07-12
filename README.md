@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/VineethIAm
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: While I am away from a computer I dream about sports cars.
+
+---
+
+\#JavaScript \#TypeScript \#React \#Node \#GraphQL \#Python
