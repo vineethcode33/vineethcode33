@@ -27,7 +27,9 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
 </p>
+
 ---
+
 ![Vineeth](https://github.com/vineethcode33/vineethcode33/blob/master/banner.gif)
 
 ### Hi there 👋
