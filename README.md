@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Vineeth](https://github.com/vineethcode33/vineethcode33/blob/master/banner.gif)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on JavaScript, TypeScript, React, Node, MongoDB, MySQL, Python...
