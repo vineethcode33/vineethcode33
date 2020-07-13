@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ![Vineeth](https://github.com/vineethcode33/vineethcode33/blob/master/banner.gif)
 
-### Heyo 👋 :rocket:
+### Heyo <img src="https://github.com/vineethcode33/vineethcode33/blob/master/hi.gif" width="30px"> :rocket:
 
 - 🔭 I’m currently working on JavaScript, TypeScript, React, Node, MongoDB, MySQL, Python...
 - 🌱 I’m currently learning Cloud technologies, GraphQL
