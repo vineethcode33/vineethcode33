@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with service-wrokers :sob: :scream:
 - 📫 How to reach me: https://twitter.com/VineethIAm
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: These days I am into :cycling:...
+- ⚡ Fun fact: These days I am into cycling :bicyclist:...
 <!--
 \#JavaScript \#TypeScript \#React \#Node \#GraphQL \#Python
 -->
