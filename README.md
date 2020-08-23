@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with service-wrokers :sob: :scream:
 - 📫 How to reach me: https://twitter.com/VineethIAm
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: While I am away from a computer I dream about sports cars.
+- ⚡ Fun fact: These days I am into :cycling:...
 <!--
 \#JavaScript \#TypeScript \#React \#Node \#GraphQL \#Python
 -->
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=vineeethcode33.vineethcode33" alt="I am famous...lol"/>
